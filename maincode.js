@@ -61,4 +61,17 @@ var Players = 0;
 var Turn = 0;
 var Round = 0;
 
- console.log("
+
+
+alert("Pulse [enter] para iniciar el juego");
+
+if (keyIsPressed && keyCode === 13) {
+  alert("Bienvenido a La Economía. Puedes leer una breve introducción en este enlace
+        ");
+};
+
+  
+
+             
+             
+        
