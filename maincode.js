@@ -66,8 +66,9 @@ var Round = 0;
 alert("Pulse [enter] para iniciar el juego");
 
 if (keyIsPressed && keyCode === 13) {
-  alert("Bienvenido a La Economía. Puedes leer una breve introducción en este enlace
-        ");
+  alert("Bienvenido a La Economía. Puedes leer una breve introducción en este enlace https://raw.githubusercontent.com/Mik2648/La-Econom-a/master/Brief%20Introduction"
+       
+       );
 };
 
   
