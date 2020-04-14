@@ -61,6 +61,7 @@ var Players = 0;
 var Turn = 0;
 var Round = -1;
 
+var rText1 = "";
 
 
 //alert("Pulse [tab] para iniciar el juego");
