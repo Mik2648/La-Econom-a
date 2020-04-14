@@ -63,10 +63,22 @@ var Round = 0;
 
 
 
-alert("Pulse [tab] para iniciar el juego");
+//alert("Pulse [tab] para iniciar el juego");
 
-if (keyIsPressed && keyCode === 9) {
-  alert("Bienvenido a La Economía. Puedes leer una breve introducción en este enlace https://raw.githubusercontent.com/Mik2648/La-Econom-a/master/Brief%20Introduction"
+//if (keyIsPressed && keyCode === 9) {
+//  alert("Bienvenido a La Economía. Puedes leer una breve introducción en este enlace https://bit.ly/2RDbStu"
        
-       ); 
+//       ); 
+//};
+
+document.getElementById("text1").innerHTML = rText1;
+
+
+if(Round == -1) {
+  if(turn==0) {
+    rText1="Pulse [next] para iniciar el juego"
+  }
+}
+   
+   ); 
 };
