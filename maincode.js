@@ -59,7 +59,7 @@ var Soles = Boingsten*1;
 //HUD
 var Players = 0;
 var Turn = 0;
-var Round = 0;
+var Round = -1;
 
 
 
