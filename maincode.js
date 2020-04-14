@@ -61,7 +61,7 @@ var Players = 0;
 var Turn = 0;
 var Round = -1;
 
-var rText1 = "";
+
 
 
 //alert("Pulse [tab] para iniciar el juego");
@@ -72,12 +72,11 @@ var rText1 = "";
 //       ); 
 //};
 
-document.getElementById("text1").innerHTML = rText1;
 
 
 if(Round == -1) {
   if(turn==0) {
-    rText1="Pulse [next] para iniciar el juego"
+    document.getElementById("text1").innerHTML = "Pulse [next] para iniciar el juego";
   }
 }
    
