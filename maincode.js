@@ -1,9 +1,4 @@
-  <!DOCTYPE html>
-<html>
-  <head>
-  </head>
-    <script type="text/javascript" src="maincode.js">
-      /* Intrucciones
+    /* Intrucciones
   1.- Descripcion
     En el juego eres un accionista que comprar y vende acciones.
   2.- Objetivos
@@ -75,24 +70,3 @@ if (keyIsPressed && keyCode === 9) {
        
        ); 
 };
-      
-     
-
-
-
-
-
-
-      
-      
-      </script>
-  <body>
-  </body>
-</html>
-
-
-  
-
-             
-             
-        
