@@ -25,7 +25,7 @@ var Round = -1;
 //};
 
 if(Round === -1) {
-  if(turn===0) {
+  if(Turn===0) {
     document.getElementById("text1").innerHTML = "Pulse [next] para iniciar el juego";
   }
 }
