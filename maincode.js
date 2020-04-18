@@ -77,6 +77,4 @@ if(Round === -1) {
     document.getElementById("text1").innerHTML = "Pulse [next] para iniciar el juego";
   }
 }
-   
-   ); 
 };
