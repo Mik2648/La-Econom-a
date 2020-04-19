@@ -9,7 +9,7 @@ var Nairas = Boingsten*5;
 var Wones = Boingsten*3;
 var Soles = Boingsten*1;
 //HUD
-var Players = 0;
+var Players = 10;
 var Turn = 0;
 var Round = -1;
 
