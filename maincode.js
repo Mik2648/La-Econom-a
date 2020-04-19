@@ -33,5 +33,8 @@ function myFunction() {
 if(Round === -1) {
   if(Turn===0) {
     document.getElementById("text1").innerHTML = "Pulse [next] para iniciar el juego";
+  } else if(Turn===1) {
+    document.getElementById("text1").innerHTML = "Bienvenido a La Economía. Puedes leer una breve introducción en este enlace https://bit.ly/2RDbStu";
   }
+  
 }
