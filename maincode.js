@@ -31,7 +31,7 @@ function myFunction() {
 //       ); 
 //};
 
-if(Round === -1) {
+while(Round === -1) {
   if(Turn===0) {
     document.getElementById("text1").innerHTML = "Pulse [next] para iniciar el juego";
   } else if(Turn===1) {
