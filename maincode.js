@@ -14,7 +14,13 @@ var Turn = 0;
 var Round = -1;
 
 
-
+function myFunction() {
+  if(Turn>Players) {
+       Round++;
+  } else {
+       Turn++;
+  }
+};
 
 //alert("Pulse [tab] para iniciar el juego");
 
