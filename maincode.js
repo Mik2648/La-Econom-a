@@ -17,6 +17,7 @@ var Round = -1;
 function myFunction() {
   if(Turn>Players) {
        Round++;
+       Turn=0;
   } else {
        Turn++;
   }
